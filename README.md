@@ -1,1 +1,0 @@
-# DRDO_UAV_Guided_UGV_Challenge
